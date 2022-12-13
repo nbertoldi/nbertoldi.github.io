@@ -1,3 +1,5 @@
 [submodule "league-page"]
 	path = league-page
-	url = https://github.com/nmelhado/league-page.git
+	url = https://github.com/nbertoldi/league-page.git
+[submodule "league-page/"]
+	url = https://github.com/nbertoldi/league-page.git
