@@ -1,0 +1,3 @@
+[submodule "league-page"]
+	path = league-page
+	url = https://github.com/nmelhado/league-page.git
